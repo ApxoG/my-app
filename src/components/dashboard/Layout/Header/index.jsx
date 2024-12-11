@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../../Icon/Logo";
+import Logo from "../../../Icon/Logo";
 const index = () => {
   return (
     <div className="px-6 py-3">

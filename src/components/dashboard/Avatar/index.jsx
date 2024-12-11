@@ -1,6 +1,6 @@
 import React from "react";
-import P from "../../components/Text/P";
-import Pill from "../../components/Pill";
+import P from "../Text/P";
+import Pill from "../Pill";
 import FallbackImage from "./FallbackImage";
 
 const index = ({ img, name, isAdmin, description }) => {

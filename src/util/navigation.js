@@ -8,31 +8,26 @@ export const NAVIGATION = [
   {
     label: "Dashboard",
     icon: <Dashboard />,
+    href: "/",
   },
   {
     label: "Customers",
     icon: <Customers />,
-    subMenu: [
-      {
-        label: "All Customers",
-        icon: "PeopleIcon",
-      },
-      {
-        label: "Add Customer",
-        icon: "AddIcon",
-      },
-    ],
+    href: "/customers",
   },
   {
     label: "all reports",
     icon: <Reports />,
+    href: "/reports",
   },
   {
     label: "Geography",
     icon: <Geography />,
+    href: "/geography",
   },
   {
     label: "Conversations",
     icon: <Conversations />,
+    href: "/conversations",
   },
 ];

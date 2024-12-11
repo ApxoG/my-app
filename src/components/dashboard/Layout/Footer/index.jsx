@@ -1,6 +1,6 @@
 import React from "react";
 import Avatar from "../../Avatar";
-import { FOOTERNAV } from "../../../util/footernav";
+import { FOOTERNAV } from "../../../../util/footernav";
 import P from "../../Text/P";
 
 const index = () => {
